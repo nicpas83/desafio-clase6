@@ -1,0 +1,1 @@
+[{"title":"Tablet 10 pulgadas","price":600,"thumbnail":"url de la tablet","id":1},{"title":"TV 42 pulgadas","price":1600,"thumbnail":"url de la TV","id":2},{"title":"TV 42 pulgadas","price":1600,"thumbnail":"url de la TV","id":3},{"title":"TV 42 pulgadas","price":1600,"thumbnail":"url de la TV","id":4}]
